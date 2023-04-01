@@ -34,3 +34,5 @@ build/
 .vs
 ### project
 /src/main/resources/appication.*
+### build
+.mvn/

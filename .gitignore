@@ -35,4 +35,4 @@ build/
 ### project
 /src/main/resources/appication.*
 ### build
-.mvn/
+.mvn/wrapper/
